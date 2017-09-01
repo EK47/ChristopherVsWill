@@ -1,16 +1,17 @@
 body {
     background-color: #40E0D0;
 }
-.cName *.Story {
+#Story {
     font-family: Courier New;
+    text-align: center;
 }
-*.listone {
+#listone {
     text-align: center;
     display: inline-block;
     color: brown;
     list-style-position: inside;
 }
-*.listtwo {
+#listtwo {
     text-align: center;
     display: inline-block;
     color: yellow;
@@ -19,7 +20,7 @@ body {
 *.cName {
     text-align: center;
 }
-*.TableOne {
+#TableOne {
     border: 1px solid red;
     width: 350px;
     margin-left:auto;
