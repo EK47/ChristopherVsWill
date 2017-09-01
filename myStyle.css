@@ -3,16 +3,16 @@ body {
 }
 #Story {
     font-family: Courier New;
-    text-align: center;
+    text-align: inherit;
 }
 #listone {
-    text-align: center;
+    text-align: inherit;
     display: inline-block;
     color: brown;
     list-style-position: inside;
 }
 #listtwo {
-    text-align: center;
+    text-align: inherit;
     display: inline-block;
     color: yellow;
     list-style-position: inside;
@@ -20,7 +20,7 @@ body {
 *.cName {
     text-align: center;
 }
-#TableOne {
+table, th, td, tr {
     border: 1px solid red;
     width: 350px;
     margin-left:auto;
