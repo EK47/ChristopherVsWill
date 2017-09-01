@@ -20,7 +20,7 @@ body {
     color: yellow;
     list-style-position: inside;
 }
-body.cName {
+div.cName {
      text-align: center;
 }
 table, th, td, tr {
