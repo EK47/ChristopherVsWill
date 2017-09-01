@@ -18,7 +18,8 @@ body {
     list-style-position: inside;
 }
 *.cName {
-    text-align: center;
+     margin-left: auto;
+    margin-right: auto;
 }
 table, th, td, tr {
     border: 1px solid red;
