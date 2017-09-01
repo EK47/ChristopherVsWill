@@ -20,9 +20,6 @@ body {
     color: yellow;
     list-style-position: inside;
 }
-div.cName {
-     text-align: center;
-}
 table, th, td, tr {
     border: 1px solid red;
     width: 350px;
