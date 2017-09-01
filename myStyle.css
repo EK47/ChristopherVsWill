@@ -1,0 +1,26 @@
+body {
+    background-color: #40E0D0;
+}
+.cName .Story {
+    font-family: Courier New;
+}
+.listone {
+    text-align: center;
+    display: inline-block;
+    color: brown;
+}
+.listtwo {
+    text-align: center;
+    display: inline-block;
+    color: yellow;
+}
+.cName {
+    text-align: center;
+}
+.TableOne {
+    border: 1px;
+    color: red;
+    width: 350px;
+    margin-left:auto;
+    margin-right:auto;
+}
